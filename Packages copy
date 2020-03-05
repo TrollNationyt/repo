@@ -2,7 +2,11 @@ Package: com.trollnation.anima
 Name: Anima
 Version: 1.0
 Architecture: iphone-os-arm 
+<<<<<<< HEAD
 Description: idk?
+=======
+Description: A theme I made!
+>>>>>>> parent of 6e6ed3c... html test
 Maintainer: @trollnation_yt
 Author: @trollnation_yt
 Section: Theme
