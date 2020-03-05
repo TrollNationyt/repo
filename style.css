@@ -1,0 +1,16 @@
+body {
+    background-color: #ff0000;
+    font-family: "helvetica", sans-serif
+    color: red;
+}
+
+h1 {
+    font-size: 99px;
+    color: blue;
+    
+}
+    a {
+        color: yellow;
+    }
+
+

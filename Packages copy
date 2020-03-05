@@ -1,0 +1,14 @@
+Package: com.trollnation.anima
+Name: Anima
+Version: 1.0
+Architecture: iphone-os-arm 
+Description: A theme I made!
+Maintainer: @trollnation_yt
+Author: @trollnation_yt
+Section: Theme
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/Anima.deb
+Size: 1894748 
+MD5sum: 80446f95f044e8b1e9df772b24df3466
+SHA1: 96fe27dddeab3ed7d17198396a038bcf32e14ccd
+SHA256: b28100e80e379ece12d7f5af21286867a922abf140387d1dfd350882acb2f9d0
