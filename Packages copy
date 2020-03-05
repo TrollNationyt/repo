@@ -6,7 +6,7 @@ Description: A theme I made!
 Maintainer: @trollnation_yt
 Author: @trollnation_yt
 Section: Theme
-Depends: com.anemonetheming.anemone | com.spark.snowboard
+Depends: com.anemonetheming.anemone, com.spark.snowboard
 Filename: debs/Anima.deb
 Size: 1894748 
 MD5sum: 80446f95f044e8b1e9df772b24df3466
