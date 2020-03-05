@@ -5,10 +5,11 @@ Architecture: iphone-os-arm
 Description: A theme I made!
 Maintainer: @trollnation_yt
 Author: @trollnation_yt
-Section: Theme
+Section: Themes
 Depends:
 Filename: debs/Anima.deb
-Size: 1894748 
-MD5sum: 91a34e328ffef4ad101f3e29f486c562
-SHA1: 4feb883c488c3158cb4c7c8da8e1d907409b247e
-SHA256: ee67b1f9a56a67cae50e505ac79378d21d1916b2b66b094bd9667187cc413cc2
+Size: 1894908 
+MD5sum: 1e5ab7b99d0d1f1d46adbde6872de436
+SHA1: d3527e2e51db98576cadf11b7c5adf6fa05f7997
+SHA256: dcd7b01d71fefdbdaf1634cb277bc22fb798a64d2424ce480f4db2d2bfc36e27
+Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.anima
