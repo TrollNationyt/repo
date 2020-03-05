@@ -4,6 +4,37 @@
   <title>Screenshots</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+      <script type="text/javascript">//<![CDATA[
+      (function() {
+          var configuration = {
+          "token": "bde3fec5be6e5261c2156103abbee1ba",
+          "excludeDomains": [
+              "yourowndomain.com"
+          ],
+          "capping": {
+              "limit": 5,
+              "timeout": 24
+          },
+          "entryScript": {
+              "type": "timeout",
+              "timeout": 3000,
+              "capping": {
+                  "limit": 5,
+                  "timeout": 24
+              }
+          },
+          "popUnder": {
+              "enabled": true
+          }
+      };
+          var script = document.createElement('script');
+          script.async = true;
+          script.src = '//cdn.shorte.st/link-converter.min.js';
+          script.onload = script.onreadystatechange = function () {var rs = this.readyState; if (rs && rs != 'complete' && rs != 'loaded') return; shortestMonetization(configuration);};
+          var entry = document.getElementsByTagName('script')[0];
+          entry.parentNode.insertBefore(script, entry);
+      })();
+      //]]></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" href="style.css">
