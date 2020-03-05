@@ -1,6 +1,21 @@
 (function() {
     var configuration = {
     "token": "bde3fec5be6e5261c2156103abbee1ba",
+    "excludeDomains": [
+        "yourowndomain.com"
+    ],
+    "capping": {
+        "limit": 5,
+        "timeout": 24
+    },
+    "entryScript": {
+        "type": "timeout",
+        "timeout": 3000,
+        "capping": {
+            "limit": 5,
+            "timeout": 24
+        }
+    },
     "popUnder": {
         "enabled": true
     }
