@@ -2,7 +2,22 @@ Package: com.trollnation.anima
 Name: Anima
 Version: 1.0
 Architecture: iphone-os-arm 
-Description: A theme I made!
+Description: <!DOCTYPE html>
+<html lang = "en">
+    
+<head>
+    
+<title> TrollNation_yt</title>   
+</head>
+
+<body>
+      <h1> TrollNation_yt's Repo<h1>
+          <a href= "https://youtube.com/trollnation" target = "blank"> My Youtube Channel</a>
+              <a href= "https://twitter.com/TrollNation_yt" target = "blank"> My Twitter</a>
+
+</body>
+
+</html>
 Maintainer: @trollnation_yt
 Author: @trollnation_yt
 Section: Theme
