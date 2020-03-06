@@ -13,3 +13,20 @@ MD5sum: 1e5ab7b99d0d1f1d46adbde6872de436
 SHA1: d3527e2e51db98576cadf11b7c5adf6fa05f7997
 SHA256: dcd7b01d71fefdbdaf1634cb277bc22fb798a64d2424ce480f4db2d2bfc36e27
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.anima
+
+Package: com.trollnation.mediaboxhd
+Name: mediabox
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Watch Movies and Tv Shows for free! 
+Author: Mediaboxhd
+Maintainer: TrollNationyt
+Section: Apps
+Depends: 
+Filename: debs/mediabox.deb
+Size:  
+MD5sum: d007040bb3943d2d1a63fd9e5d8c5c71
+SHA1: 39834355288eeb8ffb9d2bfe0fb863a09dfb11d5
+SHA256: fbe41c99c0114b0377a297d916ac84dd9874b3555631e75bbfc61fd138e06644
+Depiction: 
+
