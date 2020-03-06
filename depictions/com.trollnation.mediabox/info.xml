@@ -1,6 +1,6 @@
 <package>
 	<id>com.trollnation.mediabox</id>
-	<name>Anima</name>
+	<name>MediaBoxhd</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Mediaboxhd should work fine on ios 13 on an iPad and iPhone Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Mediaboxhd should work fine on ios 13 on an iPad or iPhone and lower Firmwares should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>Watch Movies and Tv Shows for free!</description>
 		<description>I did not make this app I am just providing a way to install it on your device.</description>
