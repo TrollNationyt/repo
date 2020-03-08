@@ -25,9 +25,9 @@ Section: Apps
 Depends: 
 Filename: debs/mediabox.deb
 Size:  
-MD5sum: d007040bb3943d2d1a63fd9e5d8c5c71
-SHA1: 39834355288eeb8ffb9d2bfe0fb863a09dfb11d5
-SHA256: fbe41c99c0114b0377a297d916ac84dd9874b3555631e75bbfc61fd138e06644
+MD5sum: e12d3a4cdf5a4844341529d05fa690f1
+SHA1: 9898939e98767b9aadd6481b0a0f8cc941c3c84b
+SHA256: caac92b7591e714bc1e66886106e79b6c747a5edb6c41b8a951d7f520691fff3
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.mediabox
 
 
