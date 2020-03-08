@@ -14,7 +14,7 @@ SHA1: d3527e2e51db98576cadf11b7c5adf6fa05f7997
 SHA256: dcd7b01d71fefdbdaf1634cb277bc22fb798a64d2424ce480f4db2d2bfc36e27
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.anima
 
-Package: com.trollnation.mediaboxhd
+Package: com.trollnation.mediabox
 Name: mediabox
 Version: 1.0
 Architecture: iphoneos-arm
