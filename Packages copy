@@ -7,7 +7,7 @@ Maintainer: @trollnation_yt
 Author: @trollnation_yt
 Section: Themes
 Depends:
-Filename: /debs/Anima.deb
+Filename: https://github.com/TrollNationyt/TrollNation_yt/blob/master/debs/Anima.deb
 Size: 1894908 
 MD5sum: 1e5ab7b99d0d1f1d46adbde6872de436
 SHA1: d3527e2e51db98576cadf11b7c5adf6fa05f7997
