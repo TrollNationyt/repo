@@ -83,7 +83,7 @@ Conflicts: guru.nickthompson.LazyMan-iOS
 
 Package: com.trollnation.zinitevi
 Name: ZiniTevi
-Version: 1.0.9
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: App for Streaming Movies, Series on iOS, iPadOS devices. It will be more wonderful when you want to watch on tv with your family as Smart TV, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...
 Author: ZiniTevi
@@ -92,8 +92,8 @@ Section: Apps
 Depends: firmware (>= 9.0)
 Filename: debs/zinitevi.deb
 Size
-MD5sum: 8403e0533c5fab46ab7d4bc095a34088
-SHA1: b9d83f48c04a80b92678e3b2c5e050dcadaa3401 
-SHA256: 4083d45cf087d084e154d96a292cc654857b6f1e35b52972f4fee67cd1d64f91
+MD5sum: b3fe8109874c42c8995c3e5a4fadc3ae
+SHA1: 5114656bb917c54c33cd5b3692c0b6f00f6b8c3e 
+SHA256: 3be14c024fef2d81421a3d008b8ce7fd4350b63fb51357aff141e5deeaa04dba
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.zinitevi
 Icon: file:///Applications/ZiniTevi.app/AppIcon60x60@3x.png
