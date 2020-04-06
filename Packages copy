@@ -73,7 +73,7 @@ Maintainer: TrollNationyt
 Section: Apps
 Depends: firmware (>= 9.0)
 Filename: debs/LazyMan-iOS_1.2.1-698.deb
-Size
+Size:
 MD5sum: 27b76333d2c3b880e0dfc4bfe154c978
 SHA1:5a4ec47a4bfcf95457c2bc211d841ad8b9f4b156d
 SHA256:98c6c1745a62feb60d05377256e8a84183e43c7a57d34649984c1822941ddba8
@@ -83,7 +83,7 @@ Conflicts: guru.nickthompson.LazyMan-iOS
 
 Package: com.trollnation.zinitevi
 Name: ZiniTevi
-Version: 1.0
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: App for Streaming Movies, Series on iOS, iPadOS devices. It will be more wonderful when you want to watch on tv with your family as Smart TV, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...
 Author: ZiniTevi
@@ -91,7 +91,7 @@ Maintainer: TrollNationyt
 Section: Apps
 Depends: firmware (>= 9.0)
 Filename: debs/zinitevi.deb
-Size
+Size:
 MD5sum: 1821aa2a9475712d681ccf647fcbce23
 SHA1: fbc51a529f096177863e241b22f69e5f1f29acbf 
 SHA256: cbba088e2a8335846554f647bb70366b06b6912d548ccee97dcba667321286b8
