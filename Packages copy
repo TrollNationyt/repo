@@ -83,7 +83,7 @@ Conflicts: guru.nickthompson.LazyMan-iOS
 
 Package: com.trollnation.zinitevi
 Name: ZiniTevi
-Version: 1.1.1
+Version: 1.0
 Architecture: iphoneos-arm
 Description: App for Streaming Movies, Series on iOS, iPadOS devices. It will be more wonderful when you want to watch on tv with your family as Smart TV, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...
 Author: ZiniTevi
