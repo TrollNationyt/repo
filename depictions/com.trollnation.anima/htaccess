@@ -1,4 +1,0 @@
-AuthUserFile /repo/depictions/com.trollnation.anima/.htpasswd
-AuthType Basic
-AuthName "TrollNation_yt"
-Require valid-user

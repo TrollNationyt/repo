@@ -1,0 +1,4 @@
+AuthUserFile /repo/depictions/.htpasswd
+AuthType Basic
+AuthName "TrollNation_yt"
+Require valid-user
